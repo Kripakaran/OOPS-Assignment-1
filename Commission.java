@@ -19,6 +19,7 @@ public class Commission {
 				input.close();
 				int mat[]=new int[9];
 				
+				
 				for(int i=0;i<n;i++)
 				{
 					if(sales[i]<300)
