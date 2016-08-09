@@ -50,7 +50,7 @@ public class DuplicateElimination {
 				i=i-1;
 			}
 		}
-
+                        input.close();
 	}
 
 	
